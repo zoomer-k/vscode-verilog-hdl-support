@@ -9,6 +9,19 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 ## Changed
 
 - run ctags under wsl
+
+## [1.11.11] - 2023-06-13
+
+### Fixed
+
+- Fix [#428](https://github.com/mshr-h/vscode-verilog-hdl-support/issues/428)
+
+## [1.11.10] - 2023-06-12
+
+### Fixed
+
+- Fix slang warning message with square brackets [#427](https://github.com/mshr-h/vscode-verilog-hdl-support/pull/427)
+
 ## [1.11.9] - 2023-06-09
 
 ## Changed
@@ -42,7 +55,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
 ### Fixed
 
-- Fixed Slang & Verilator: cant run under WSL  [#418](https://github.com/mshr-h/vscode-verilog-hdl-support/issues/418)
+- Fixed Slang & Verilator: cant run under WSL [#418](https://github.com/mshr-h/vscode-verilog-hdl-support/issues/418)
 - Fixed [#139](https://github.com/mshr-h/vscode-verilog-hdl-support/issues/139)
 
 ## [1.11.4] - 2023-04-19
